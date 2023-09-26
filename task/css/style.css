@@ -1,0 +1,50 @@
+title{
+  text-align: center;
+
+}
+
+
+
+.oo{
+
+  border-radius: 10%;
+
+  width: 120px;
+  height: 100px;
+  }
+
+
+.navNewStyle{
+  background-color: #263238;
+  color: white;
+  padding: 20px ;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  width: 100%;
+}
+
+.dash{
+text-align: center;
+padding: 20px;
+}
+
+
+img{
+  border-radius: 50%;
+}
+
+.custom-search-box {
+  box-sizing: content-box;
+    padding-left: 30px;
+    align-items: center;
+    margin-top : -10px;
+
+     /* Adjust this value to control the position of the icon */
+  }
+.img-caption{
+  font-size: 0.7rem;
+  text-align: center;
+  font-weight: bold;
+  margin-right: 25px;
+  padding-left: 20px;
+}
